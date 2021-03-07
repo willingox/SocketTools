@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>PNG/ico.png</file>
+        <file>PNG/ico16.png</file>
+        <file>PNG/ico16-1.png</file>
+        <file>PNG/TcpServerON.png</file>
+        <file>PNG/TcpServerOFF.png</file>
+        <file>PNG/clientOn.png</file>
+        <file>PNG/clientOff.png</file>
+    </qresource>
+</RCC>
